@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--字体值大小-->
+    <dimen name="toolbar_size">20sp</dimen>   <!--顶部toolbar字体值-->
+    <dimen name="tab_layout">16sp</dimen>
+    <dimen name="information_size">16sp</dimen>   <!--详情列表标题字体值-->
+    <dimen name="subscript_size">10sp</dimen>  <!--详情列表下标作者名称及日期字体值-->
+
+
+</resources>
